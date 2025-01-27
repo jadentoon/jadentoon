@@ -12,6 +12,7 @@ Aspiring Software Engineer who is currently in their 2nd Undergraduate Computer 
 <p>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge"/>
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img alt="haskell" src="https://img.shields.io/badge/haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge"/>
 </p>
 
 <h3>Proficient in:</h3>
