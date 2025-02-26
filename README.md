@@ -11,6 +11,7 @@ Aspiring Software Engineer who is currently in their 2nd Undergraduate Computer 
 <h3>Currently Learning:</h3>
 <p>
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
   <img alt="haskell" src="https://img.shields.io/badge/haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge"/>
 </p>
 
