@@ -2,7 +2,7 @@
 
 **`3rd Year Student at the University of Kent`**
 
-Aspiring Software Engineer who is currently in their 2nd Undergraduate Computer Science course with strong skills in web development, database managament, data structures and algorithms.
+Aspiring Software Engineer who is currently in their 3rd Undergraduate Computer Science course with strong skills in web development, database managament, data structures and algorithms.
 
 ---
 
