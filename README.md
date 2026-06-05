@@ -7,12 +7,6 @@ Aspiring Software Engineer who is currently in their 3rd Undergraduate Computer 
 ---
 
 <h1>Languages and Frameworks</h1>
-
-<h3>Currently Learning:</h3>
-<p>
-  <img alt="springboot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
-</p>
-
 <h3>Proficient in:</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-000000?logo=OpenJDK&logoColor=white&style=for-the-badge"/>
@@ -22,8 +16,11 @@ Aspiring Software Engineer who is currently in their 3rd Undergraduate Computer 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>
   <img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=Next.js&logoColor=white&style=for-the-badge"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img alt="springboot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img alt="neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
