@@ -1,8 +1,8 @@
 ## Hi there, I'm Jaden 👋
 
-**`3rd Year Student at the University of Kent`**
+**`Junior Software Engineer`**
 
-Aspiring Software Engineer who is currently in their 3rd Undergraduate Computer Science course with strong skills in web development, database managament, data structures and algorithms.
+Junior Software Engineer who has completed their Undergraduate Computer Science course with strong skills in web development, database managament, data structures and algorithms.
 
 ---
 
